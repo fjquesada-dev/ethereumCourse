@@ -1,1 +1,1 @@
-# ethereumCourse
+# Ethereum Course
